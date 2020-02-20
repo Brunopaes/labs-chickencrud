@@ -1,0 +1,15 @@
+{% extends 'museu/base.html' %}
+{% block content %}
+    <table class="table">
+        <tr>
+            <td><b>Title</b></td>
+            <td><b>Content</b></td>
+        </tr>
+        {% for message in messages %}
+            <tr>
+                <td>{{ message.title }}</td>
+                <td>{{ message.content }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock content %}
