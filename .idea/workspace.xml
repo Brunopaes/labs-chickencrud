@@ -19,32 +19,39 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a262c96-5da3-45f4-a94d-0a4f1f5b32bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/labs-chickencrud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/templates/museu/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/templates/museu/check_db.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/templates/museu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/museu/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CREDITS" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/museu/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/museu/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unittests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/museu/migrations/__init__.py" afterDir="false" />
+    <list default="true" id="3a262c96-5da3-45f4-a94d-0a4f1f5b32bd" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/admin/admin/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/migrations/0002_auto_20200303_1247.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/migrations/0003_auto_20200303_1253.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/migrations/0004_subject_created.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/museu/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin/museu/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin/museu/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/templates/museu/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/templates/museu/check_db.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/templates/museu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin/museu/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/museu/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +61,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,8 +76,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Python_Playground" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +90,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\labs-chickencrud\museu\museu_" />
+      <recent name="D:\labs-chickencrud\museu\museu" />
       <recent name="D:\labs-chickencrud\src" />
       <recent name="D:\labs-chickencrud" />
     </key>
@@ -97,8 +108,21 @@
       <updated>1581952519118</updated>
       <workItem from="1581952520235" duration="37000" />
       <workItem from="1581952559495" duration="6913000" />
-      <workItem from="1582218657081" duration="9302000" />
+      <workItem from="1582218657081" duration="10088000" />
+      <workItem from="1582736367392" duration="672000" />
+      <workItem from="1582808674000" duration="213000" />
+      <workItem from="1583245379749" duration="155000" />
+      <workItem from="1583245544589" duration="2092000" />
+      <workItem from="1583247657465" duration="3986000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1582232722560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582232722561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,18 +139,54 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583251049161">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583251049161" />
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582218680225">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/1366.-518.1600.900@0.0.1366.738" timestamp="1582218680225" />
-    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1582217047372">
+    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1583251044250">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1582217047372" />
-    <state x="1667" y="-428" key="SettingsEditor" timestamp="1581952553533">
-      <screen x="1366" y="-518" width="1600" height="900" />
+    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583251044250" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1583245762010">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1583245762010" />
+    <state x="438" y="89" key="RollbackChangesDialog" timestamp="1583251083011">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="89" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1583251083011" />
+    <state x="257" y="18" key="SettingsEditor" timestamp="1583251667813">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="1667" y="-428" key="SettingsEditor/0.0.1366.738/1366.-518.1600.900@1366.-518.1600.900" timestamp="1581952553533" />
+    <state x="257" y="18" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583251667813" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1582232742292">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582232742292" />
+    <state x="384" y="157" key="git4idea.merge.GitPullDialog" timestamp="1582808686107">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="157" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1582808686107" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mysite/mysite/urls.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
